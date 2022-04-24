@@ -1,0 +1,24 @@
+-- ==== Configuring Gamma.
+-- Checking for module 'libsndfile'
+--   No package 'libsndfile' found
+-- Found SNDFILE 
+-- libsndfile: /usr/local/lib/libsndfile.dylib
+-- threading: 
+-- Using Cocoa for window creation
+-- Checking for module 'jack'
+--   No package 'jack' found
+-- Checking for module 'libpulse-simple'
+--   No package 'libpulse-simple' found
+-- Compiling with support for: core
+-- Checking for module 'jack'
+--   No package 'jack' found
+-- Compiling with support for: coremidi
+-- Could NOT find Doxygen (missing: DOXYGEN_EXECUTABLE) 
+-- Using the single-header code from /Users/jenniferlo/cs/cs190D/lab01-jenny353/allolib/external/json/single_include/
+-- Checking for module 'libassimp'
+--   No package 'libassimp' found
+-- Using libsndfile: /usr/local/lib/libsndfile.dylib
+-- Using fftw3: /usr/local/lib/libfftw3f.dylib
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/jenniferlo/cs/cs190D/lab01-jenny353/musicBrush/build/01_paint/Release

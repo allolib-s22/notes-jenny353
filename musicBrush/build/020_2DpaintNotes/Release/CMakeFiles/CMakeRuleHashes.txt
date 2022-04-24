@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+2de182736f0e7cda083c75b23f3fc98b ../../../../allolib/build/Release/external/rtaudio/CMakeFiles/RTAUDIO_UNINSTALL
+1ae1d345eac64901ae2619e6a333aa44 ../../../../allolib/build/Release/external/rtmidi/CMakeFiles/RTMIDI_UNINSTALL
+aec41d8b1ee6aad587e6366ba070c0f2 CMakeFiles/020_2DpaintNotes_run
+53d9100aa165faf8a89bcd898539bcb1 CMakeFiles/020_2DpaintNotes_run_debug
